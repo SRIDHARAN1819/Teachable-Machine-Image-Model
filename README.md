@@ -1,5 +1,8 @@
 # Teachable-Machine-Image-Model
-Name :SRIDHARAN S DEPT :B.TECH AI&DS
+Name :SRIDHARAN S 
+
+DEPT :B.TECH AI&DS
+
 Create a Teachable Machine Learning Model Designing the Rock/Paper/Scissors Game. 
 
 
